@@ -21,10 +21,10 @@ Clique em Build Settings
 
 Selecione a opção desejada entre as plataformas disponíveis (caso necessário, instale os módulos para o build)
 
--Clique em Switch Platform para selecionar
--Clique em Player Settings caso queira alterar o nome do projeto no dispositivo
--Clique em Build e selecione a pasta onde será salvo o build
--Após finalizar o carregamento, será gerada uma pasta com os arquivos a serem colocados no dispositivo
+- Clique em Switch Platform para selecionar
+- Clique em Player Settings caso queira alterar o nome do projeto no dispositivo
+- Clique em Build e selecione a pasta onde será salvo o build
+- Após finalizar o carregamento, será gerada uma pasta com os arquivos a serem colocados no dispositivo
 -Basta realizar a transferência dos arquivos de acordo com o sistema utilizado e executar no seu dispositivo
 
   
