@@ -15,4 +15,16 @@ O sistema possibilita a movimentação desses objetos no ambiente e a identifica
 ## Objeto com descrição depois de escaneado
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/d377e54f-407e-43b9-902a-9fb62f6d4c73" />
 
-<video width="640" autoplay muted loop>  <source src="gravacao.mp4" type="video/mp4"> </video>
+## Instalando no seu dispositivo
+
+Clique em Build Settings
+
+Selecione a opção desejada entre as plataformas disponíveis (caso necessário, instale os módulos para o build)
+
+-Clique em Switch Platform para selecionar
+-Clique em Player Settings caso queira alterar o nome do projeto no dispositivo
+-Clique em Build e selecione a pasta onde será salvo o build
+-Após finalizar o carregamento, será gerada uma pasta com os arquivos a serem colocados no dispositivo
+-Basta realizar a transferência dos arquivos de acordo com o sistema utilizado e executar no seu dispositivo
+
+  
