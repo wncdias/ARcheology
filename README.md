@@ -17,10 +17,8 @@ O sistema possibilita a movimentação desses objetos no ambiente e a identifica
 
 ## Instalando no seu dispositivo
 
-Clique em Build Settings
-
-Selecione a opção desejada entre as plataformas disponíveis (caso necessário, instale os módulos para o build)
-
+- Clique em Build Settings
+- Selecione a opção desejada entre as plataformas disponíveis (caso necessário, instale os módulos para o build)
 - Clique em Switch Platform para selecionar
 - Clique em Player Settings caso queira alterar o nome do projeto no dispositivo
 - Clique em Build e selecione a pasta onde será salvo o build
