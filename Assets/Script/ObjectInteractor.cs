@@ -11,9 +11,12 @@ public class ObjectInteractor : MonoBehaviour, IInteractable
     [SerializeField] private SOObjectInfo objectInfo;
 
     [SerializeField] private float infoDisplayHeight = 0.3f;
+
+    [SerializeField] private ParticleSystem currentEffect;
+
     public void OnInteract()
     {
-        Debug.Log("Interagindo com o cubo");
+        //Debug.Log("Interagindo com o cubo");
 
         if (isLocked) return;
 
@@ -72,6 +75,8 @@ public class ObjectInteractor : MonoBehaviour, IInteractable
         {
             infoController.SetVisible(false);
             infoController.transform.SetParent(null);
+            //stop particle effect
+            currentEffect.Stop();
         }
     }
 

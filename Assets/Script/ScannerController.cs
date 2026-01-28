@@ -7,7 +7,6 @@ public class ScannerController : MonoBehaviour
     [SerializeField] private SpotController spot;
     [SerializeField] private float scanDuration = 4f;
     [SerializeField] GameObject scanUI;
-
     private Animator animator;
 
     void Start()
